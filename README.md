@@ -1,5 +1,5 @@
 
-# back2shell-csharp
+# back2shell-csharp (RAT)
 
 back2shell - remote administration tool created to make computer control easier.
 
