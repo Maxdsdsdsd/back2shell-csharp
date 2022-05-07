@@ -15,7 +15,13 @@ back2shell - remote administration tool created to make computer control easier.
 
  - Now you must build project and copy all builded files into folder. (For some features you need enable UAC mode for program, so enable manifest "app.manifest" in project settings)
 
- - Now, you must obfuscate the builded program. Copy all files from folder "obfuscating" to folder with builded program. Make folders "input" and "output". Copy all builded program files to folder "input". Now run Obfuscar.Console.exe and wait. After proccess copy dll from folder "output" to folder "input".
+ - Now, you must obfuscate the builded program. Copy all files from folder "obfuscating" to folder with builded program. Make folders "input" and "output". Copy all builded program files to folder "input". Now run cmd in this folder and execute this:
+
+```bash
+  Obfuscar.Console.exe config.xml
+```
+
+ - After proccess copy dll from folder "output" to folder "input".
 
  - All done.
 
