@@ -4,7 +4,7 @@
 back2shell - remote administration tool created to make computer control easier.
 
 
-![Logo](https://user-images.githubusercontent.com/33353036/167256286-34a95135-6d64-46f0-8c5a-48ad7ca90972.png)
+![Logo](https://user-images.githubusercontent.com/33353036/167257713-1ef10c1c-63cc-46a5-9c39-9238e074e969.png)
 
 
 ## Installation
